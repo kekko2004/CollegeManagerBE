@@ -1,0 +1,7 @@
+professor could be:
+- ordinary
+- researcher
+student:
+- could be a guest
+
+must be implement a guest class with some operations
